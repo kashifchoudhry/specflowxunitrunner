@@ -1,0 +1,29 @@
+xUnit.net Console Runner v2.4.1 (64-bit Desktop .NET 4.5.2, runtime: 4.0.30319.42000)
+  Discovering: xUnitSpecflow
+  Discovered:  xUnitSpecflow
+  Starting:    xUnitSpecflow
+-> Loading plugin C:\dev\xUnitSpecflow\xUnitSpecflow\bin\Debug\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
+-> Using default config
+Running Test 'b202'
+  - Clicked link
+  - Information displayed
+Running Test 'A201'
+  - Clicked link
+  - Information displayed
+Running Test 'B101'
+  - Clicked link
+  - Information displayed
+Running Test 'B102'
+  - Clicked link
+  - Information displayed
+Running Test 'A202'
+  - Clicked link
+  - Information displayed
+Running Test 'b201'
+  - Clicked link
+  - Information displayed
+  Finished:    xUnitSpecflow
+=== TEST EXECUTION SUMMARY ===
+   xUnitSpecflow  Total: 6, Errors: 0, Failed: 0, Skipped: 0, Time: 0.762s
+
+

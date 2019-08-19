@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assemblies timestamp="08/18/2019 20:00:58">
+  <assembly name="C:\dev\xUnitSpecflow\xUnitSpecflow\bin\Debug\xUnitSpecflow.EXE" environment="64-bit .NET 4.0.30319.42000 [collection-per-class, parallel (4 threads)]" test-framework="xUnit.net 2.4.1.0" run-date="2019-08-18" run-time="20:00:57" config-file="C:\dev\xUnitSpecflow\xUnitSpecflow\bin\Debug\xUnitSpecflow.exe.config" total="6" passed="6" failed="0" skipped="0" time="0.762" errors="0">
+    <errors />
+    <collection total="6" passed="6" failed="0" skipped="0" name="Test collection for _xUnitSpecflow.FeaturesSet02Feature" time="0.333">
+      <test name="b202-About Us" type="_xUnitSpecflow.FeaturesSet02Feature" method="B202_AboutUs" time="0.2721874" result="Pass">
+        <output><![CDATA[Given I run test 'b202'
+-> done: StepDefinition1.GivenIRunTest("b202") (0.0s)
+When I click the link
+-> done: StepDefinition1.WhenIClickTheLink() (0.0s)
+Then the information is displayed
+-> done: StepDefinition1.ThenTheInformationIsDisplayed() (0.0s)
+]]></output>
+        <traits>
+          <trait name="FeatureTitle" value="FeaturesSet02" />
+          <trait name="Description" value="b202-About Us" />
+          <trait name="Category" value="fs204" />
+          <trait name="Category" value="featureTag2" />
+        </traits>
+      </test>
+      <test name="A201-Products" type="_xUnitSpecflow.FeaturesSet02Feature" method="A201_Products" time="0.0135601" result="Pass">
+        <output><![CDATA[Given I run test 'A201'
+-> done: StepDefinition1.GivenIRunTest("A201") (0.0s)
+When I click the link
+-> done: StepDefinition1.WhenIClickTheLink() (0.0s)
+Then the information is displayed
+-> done: StepDefinition1.ThenTheInformationIsDisplayed() (0.0s)
+]]></output>
+        <traits>
+          <trait name="FeatureTitle" value="FeaturesSet02" />
+          <trait name="Description" value="A201-Products" />
+          <trait name="Category" value="fs201" />
+          <trait name="Category" value="featureTag2" />
+        </traits>
+      </test>
+      <test name="B101-Products" type="_xUnitSpecflow.FeaturesSet02Feature" method="B101_Products" time="0.0130988" result="Pass">
+        <output><![CDATA[Given I run test 'B101'
+-> done: StepDefinition1.GivenIRunTest("B101") (0.0s)
+When I click the link
+-> done: StepDefinition1.WhenIClickTheLink() (0.0s)
+Then the information is displayed
+-> done: StepDefinition1.ThenTheInformationIsDisplayed() (0.0s)
+]]></output>
+        <traits>
+          <trait name="FeatureTitle" value="FeaturesSet02" />
+          <trait name="Description" value="B101-Products" />
+          <trait name="Category" value="fs203" />
+          <trait name="Category" value="featureTag2" />
+        </traits>
+      </test>
+      <test name="B102-About Us" type="_xUnitSpecflow.FeaturesSet02Feature" method="B102_AboutUs" time="0.0112357" result="Pass">
+        <output><![CDATA[Given I run test 'B102'
+-> done: StepDefinition1.GivenIRunTest("B102") (0.0s)
+When I click the link
+-> done: StepDefinition1.WhenIClickTheLink() (0.0s)
+Then the information is displayed
+-> done: StepDefinition1.ThenTheInformationIsDisplayed() (0.0s)
+]]></output>
+        <traits>
+          <trait name="FeatureTitle" value="FeaturesSet02" />
+          <trait name="Description" value="B102-About Us" />
+          <trait name="Category" value="fs204" />
+          <trait name="Category" value="featureTag2" />
+        </traits>
+      </test>
+      <test name="A202-About Us" type="_xUnitSpecflow.FeaturesSet02Feature" method="A202_AboutUs" time="0.0132258" result="Pass">
+        <output><![CDATA[Given I run test 'A202'
+-> done: StepDefinition1.GivenIRunTest("A202") (0.0s)
+When I click the link
+-> done: StepDefinition1.WhenIClickTheLink() (0.0s)
+Then the information is displayed
+-> done: StepDefinition1.ThenTheInformationIsDisplayed() (0.0s)
+]]></output>
+        <traits>
+          <trait name="FeatureTitle" value="FeaturesSet02" />
+          <trait name="Description" value="A202-About Us" />
+          <trait name="Category" value="fs202" />
+          <trait name="Category" value="featureTag2" />
+        </traits>
+      </test>
+      <test name="b201-Products" type="_xUnitSpecflow.FeaturesSet02Feature" method="B201_Products" time="0.0099423" result="Pass">
+        <output><![CDATA[Given I run test 'b201'
+-> done: StepDefinition1.GivenIRunTest("b201") (0.0s)
+When I click the link
+-> done: StepDefinition1.WhenIClickTheLink() (0.0s)
+Then the information is displayed
+-> done: StepDefinition1.ThenTheInformationIsDisplayed() (0.0s)
+]]></output>
+        <traits>
+          <trait name="FeatureTitle" value="FeaturesSet02" />
+          <trait name="Description" value="b201-Products" />
+          <trait name="Category" value="fs203" />
+          <trait name="Category" value="featureTag2" />
+        </traits>
+      </test>
+    </collection>
+  </assembly>
+</assemblies>
